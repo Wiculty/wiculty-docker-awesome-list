@@ -46,7 +46,7 @@ const valueNames = [
 ];
 
 const sitemapOpts = {
-  hostname: 'https://awesome-docker.netlify.com/',
+  hostname: 'https://wiculty-docker-awesome-list.netlify.com',
   cacheTime: 6000000, // 600 sec (10 min) cache purge period
   urls: [
     {
